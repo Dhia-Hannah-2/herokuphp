@@ -7,7 +7,7 @@
 <body>
     <!--fix: Document doesn't have a <title> element-->
     <title color="green">
-      This is test
+      Hello World green
     </title>
 </body>
 </html>
