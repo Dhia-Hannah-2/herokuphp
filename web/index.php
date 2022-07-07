@@ -4,6 +4,9 @@
 <html lang="en">
 
 <head>
+    <!--fix: Document does not have a meta description-->
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
     <title>
         Hello World
     </title>
